@@ -29,5 +29,5 @@
 }
 
 .content-with-video {
-  top: 100%;
+  position: static !important;
 }

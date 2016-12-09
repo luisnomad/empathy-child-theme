@@ -14,19 +14,19 @@
       }
     });
 
-    $('.no-touch section#home').attr ('data-property', JSON.stringify({
+    $('.no-touch.video section#home').attr ('data-property', JSON.stringify({
       videoURL: videoURL,
       containment:'self',
       startAt: 0,
       mute: true,
       autoPlay: true,
       loop: true,
-      opacity: 1,
+      opacity: 0.9,
       showControls: false,
       optimizeDisplay: true
     })).addClass('player').YTPlayer();
 
-    $('.no-touch section#home .content').addClass('content-with-video');
+    $('.no-touch.video section#home .content').addClass('content-with-video');
 
   });
 })(jQuery)
