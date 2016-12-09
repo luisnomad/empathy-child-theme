@@ -1,8 +1,10 @@
 # Empathy Child Theme
 
-This child theme ads some features to the [Empathy Theme](https://themeforest.net/item/empathy-a-vcard-theme/12248701?ref=luissg) by [pixelwars](https://themeforest.net/user/pixelwars)
+This child theme adds some features to the [Empathy Theme](https://themeforest.net/item/empathy-a-vcard-theme/12248701?ref=luissg) by [pixelwars](https://themeforest.net/user/pixelwars)
 
 ![](https://image-tf.s3.envato.com/files/175132113/empathy-screenshots/00.__large_preview.png)
+
+![](screenshot.png)
 
 ## Features
 
@@ -11,7 +13,7 @@ This child theme ads some features to the [Empathy Theme](https://themeforest.ne
 
 ## Instructions
 
-* First you need your Empathy theme is installed
+* First you need your purchased copy of the [Empathy Theme](https://themeforest.net/item/empathy-a-vcard-theme/12248701?ref=luissg) installed
 * Checkout this project on your themes folder
 * Update /js/empathy-child.js and set the videoURL to point to any video on YouTube
 * Activate the new Empathy Child theme on Wordpress (Dashboard > Appareance > Themes)
