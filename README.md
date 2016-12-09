@@ -15,7 +15,7 @@ This child theme adds some features to the [Empathy Theme](https://themeforest.n
 
 * First you need your purchased copy of the [Empathy Theme](https://themeforest.net/item/empathy-a-vcard-theme/12248701?ref=luissg) installed
 * Checkout this project on your themes folder
-* Update /js/empathy-child.js and set the videoURL to point to any video on YouTube
+* Update /js/empathy-child.js and set the videoURL variable to point to any video on YouTube
 * Activate the new Empathy Child theme on Wordpress (Dashboard > Appareance > Themes)
 * Enjoy
 
