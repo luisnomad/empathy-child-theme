@@ -1,0 +1,33 @@
+/*
+ Theme Name:   Empathy Child
+ Description:  Empathy Child Theme
+ Author:       Luis Serrano
+ Author URI:   http://luisnomad.com
+ Template:     empathy
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+.copy-text .textwidget {
+  font-size: 0.6em;
+}
+
+.contact-form input:not([type=submit]):not([type=button]):not([type=file]):not([type=radio]):not([type=checkbox]), .contact-form textarea {
+    width: 100% !important;
+    max-width: none !important;
+    display: block !important;
+}
+
+.contact-form p:nth-of-type(1), nf-field:nth-child(1) {
+    padding-right: 0 !important;
+}
+
+.contact-form p, nf-field:nth-child(1), nf-field:nth-child(2) {
+    width: 100% !important;
+    float: left;
+}
+
+.content-with-video {
+  top: 100%;
+}
