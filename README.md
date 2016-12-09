@@ -17,12 +17,13 @@ This child theme ads some features to the [Empathy Theme](https://themeforest.ne
 * Activate the new Empathy Child theme on Wordpress (Dashboard > Appareance > Themes)
 * Enjoy
 
-Feel free to fork this child theme. Please let me know if you add more features, so I can use them too :) You can also contribute to this project if you want. 
+Feel free to fork this child theme. Please let me know if you add more features, so I can use them too :) You can also contribute to this project if you want.
 
 ## TODO
 
 * Add Google Analytics snippet without plugins
 * Add an Admin page to configure video (select URL, video properties like opacity, etc)
+* Center video (looks a little bit cropped on the right)
 
 ## Disclaimer
 
