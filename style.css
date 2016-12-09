@@ -31,3 +31,13 @@
 .content-with-video {
   position: static !important;
 }
+
+.content-with-video div.layout-medium {
+  margin: 0 auto;
+  width: 50%;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.2);
+  bottom: 2em;
+  padding: 1em 0 2em;
+}

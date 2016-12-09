@@ -1,6 +1,6 @@
 (function($) { "use strict";
 
-  var videoURL = 'http://youtu.be/Diy-D9o7dQ4';
+  var videoURL = 'http://youtu.be/dFdpg6YaEf0';
 
 	$(function() {
     // Updates Google Analytics page variable
@@ -24,7 +24,7 @@
       opacity: 0.9,
       showControls: false,
       optimizeDisplay: true
-    })).addClass('player').YTPlayer();
+    })).addClass('a').YTPlayer();
 
     $('.no-touch.video section#home .content').addClass('content-with-video');
 

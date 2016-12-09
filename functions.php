@@ -9,7 +9,7 @@ function empathy_child_files() {
         array( $parent_style ),
         wp_get_theme()->get('Version')
     );
-
+    
     wp_enqueue_style( 'ytplayer-style',
         get_stylesheet_directory_uri() . '/js/ytplayer/css/jquery.mb.YTPlayer.min.css' );
 
