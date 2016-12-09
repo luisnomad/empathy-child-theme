@@ -1,0 +1,1 @@
+# empathy-child-theme
